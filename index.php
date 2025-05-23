@@ -1,6 +1,6 @@
 <?php
 require_once "config.php";
-require_once BASE_PATH . "/utils/require.utils.php";
+require_once BASE_PATH . "/utils/Require.utils.php";
 $pageTitle = "AD Task 2";
 $cssFile = BASE_URL . "/assets/css/style.css";
 headComponent($pageTitle, $cssFile);

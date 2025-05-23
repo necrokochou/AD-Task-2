@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . "/../../config.php";
-require_once BASE_PATH . "/utils/require.utils.php";
+require_once BASE_PATH . "/utils/Require.utils.php";
 $pageTitle = "Favorite Manga";
 $cssFile = BASE_URL . "/pages/FavoriteMangaPage/assets/css/style.css";
 headComponent($pageTitle, $cssFile);
