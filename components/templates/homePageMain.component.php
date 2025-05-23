@@ -15,7 +15,7 @@ $cssFile = BASE_URL . "/assets/css/style.css";
         <span class="line"></span>
         <p class="description">
             A sample project that displays programming basics such as arrays, dictionaries, functions, and fragmentation.
-            Designed and themed based on a manga-reading website.
+            Designed and themed based on a manga-reading and anime-streaming website.
         </p>
         <p class="info">
             This project includes two pages:<br>
