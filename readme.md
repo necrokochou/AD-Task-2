@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/necrokochou/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/face-red-droppy-eyes-4x.png" alt="Good4You" width="130" height="100">
+    <img src="./assets/img/frieren-zoltraak.gif" alt="zoltraak" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Hands-on 2 : AD-Task-2</h3>
@@ -21,7 +21,7 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=necrokochou/AD-Task-1)
+![](https://visit-counter.vercel.app/counter.png?page=necrokochou/AD-Task-2)
 
 [![wakatime](https://wakatime.com/badge/user/018f07eb-269b-4b7c-b3af-6bf4e57e5c82/project/e6d9f123-9de2-4218-8a2c-d4651498fc2a.svg)](https://wakatime.com/badge/user/018f07eb-269b-4b7c-b3af-6bf4e57e5c82/project/e6d9f123-9de2-4218-8a2c-d4651498fc2a)
 
