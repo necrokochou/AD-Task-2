@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    padding: 1.5em;
+    justify-content: center;
+}
+
+footer * {
+    text-decoration: none;
+    color: lightyellow;
+}

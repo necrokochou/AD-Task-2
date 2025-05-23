@@ -1,0 +1,16 @@
+{
+    "name": "allen/ad-task-2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Allen\\AdTask2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "necrokochou",
+            "email": "togami.playz2905@gmail.com"
+        }
+    ],
+    "require": {}
+}

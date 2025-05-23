@@ -1,0 +1,49 @@
+header {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    background-color: rgb(84, 84, 110);
+    height: 4em;
+    padding-inline: 7em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.active {
+    background-color: rgb(50, 50, 68);
+}
+
+header * {
+    text-decoration: none;
+    color: lightyellow;
+}
+
+.dev {
+    display: flex;
+    height: 100%;
+    width: 7em;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    column-gap: 7em;
+    height: 100%;
+}
+
+.nav-button {
+    display: flex;
+    width: 7em;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-button:hover {
+    background-color: rgb(123, 123, 158);
+    border-radius: 1em;
+}
+
+/* header * {
+    border: solid 1px blue;
+} */
