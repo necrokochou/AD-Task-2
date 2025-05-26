@@ -1,8 +1,7 @@
 <?php
-require_once __DIR__ . "/../config.php";
-$cssFile = BASE_URL . "/components/cssComponents/card.component.css";
+$cssFile = __DIR__ . "/../components/cssComponents/card.component.css";
 ?>
-<link rel="stylesheet" href="<?php echo $cssFile; ?>">
+<link rel="stylesheet" href="/components/cssComponents/card.component.css">
 
 <?php
 function displayCards($cardsList, $type = '') {
